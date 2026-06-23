@@ -7,4 +7,3 @@ COPY index.html /usr/share/nginx/html/
 
 # Étape 3 : On indique que le conteneur va écouter sur le port 80
 EXPOSE 80
-EOF
